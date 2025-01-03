@@ -16,3 +16,6 @@ cd ~/git/files
 ```
 git add . && git commit -m "init" && git push 
 ```
+
+- Attend que les opérations du terminal soit terminées.
+- Eteins l'ordi.
